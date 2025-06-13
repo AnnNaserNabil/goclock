@@ -2,6 +2,9 @@
 
 A simple and elegant desktop clock application written in Go using the Fyne toolkit.
 
+![Go Clock Screenshot](https://raw.githubusercontent.com/AnnNaserNabil/goclock/main/screenshot.png)
+
+
 ## Features
 
 - Displays current time in 12-hour format with AM/PM
