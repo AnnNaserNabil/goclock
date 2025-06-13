@@ -4,7 +4,7 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="A simple and elegant desktop clock application"
 arch=('x86_64' 'i686' 'arm' 'armv6h' 'armv7h' 'aarch64')
-url="https://github.com/yourusername/goclock"
+url="https://github.com/AnnNaserNabil/goclock"
 license=('MIT')
 depends=('gtk3' 'glib2' 'libx11' 'libxext' 'libxrender' 'libxrandr' 'libxinerama' 'libxcursor' 'libxi' 'libxcomposite' 'libxdamage' 'libxfixes' 'libxau' 'libxdmcp' 'libxcb')
 makedepends=('go' 'git' 'pkgconf' 'gcc' 'glu')
@@ -16,7 +16,7 @@ build() {
     
     # Initialize Go module if not already done
     if [ ! -f go.mod ]; then
-        go mod init github.com/yourusername/goclock
+        go mod init github.com/AnnNaserNabil/goclock
     fi
     
     # Get dependencies
