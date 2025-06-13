@@ -2,7 +2,7 @@
 
 A simple and elegant desktop clock application written in Go using the Fyne toolkit.
 
-![Go Clock Screenshot](https://raw.githubusercontent.com/AnnNaserNabil/goclock/main/screenshot.png)
+![Go Clock Screenshot](/screenshot.png)
 
 
 ## Features
