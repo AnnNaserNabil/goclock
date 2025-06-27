@@ -50,3 +50,5 @@ After building, run the application with:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+##Contributing
